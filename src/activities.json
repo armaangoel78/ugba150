@@ -1,0 +1,98 @@
+{
+    "clubs": [
+      {
+        "name": "Chess Club",
+        "description": "Join the chess club to improve your skills and compete with others.",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/6/6f/ChessSet.jpg",
+        "acceptance_rate": "70%",
+        "deadline": "2023-06-15",
+        "num_members": "30",
+        "friend_members": ["Alice", "Bob", "Carol"],
+        "other_members": ["David", "Eve", "Frank"]
+      },
+      {
+        "name": "Art Club",
+        "description": "Explore your creativity and learn various art techniques in the art club.",
+        "imageUrl": "https://images.unsplash.com/photo-1503455637927-730bce8583c0",
+        "acceptance_rate": "85%",
+        "deadline": "2023-05-20",
+        "num_members": "25",
+        "friend_members": ["George", "Helen", "Iris"],
+        "other_members": ["Jack", "Karen", "Liam"]
+      },
+      {
+        "name": "Debate Club",
+        "description": "Hone your public speaking and critical thinking skills by joining the debate club.",
+        "imageUrl": "https://ahaslides.com/wp-content/uploads/2021/05/Feature-1-1.png",
+        "acceptance_rate": "60%",
+        "deadline": "2023-06-01",
+        "num_members": "35",
+        "friend_members": ["Mia", "Noah", "Olivia"],
+        "other_members": ["Parker", "Quincy", "Riley"]
+      },
+      {
+        "name": "Drama Club",
+        "description": "Develop your acting skills and participate in school theater productions by joining the drama club.",
+        "imageUrl": "https://images.unsplash.com/photo-1522075469751-3a6694fb2f61",
+        "acceptance_rate": "75%",
+        "deadline": "2023-05-30",
+        "num_members": "40",
+        "friend_members": ["Sam", "Tina", "Uma"],
+        "other_members": ["Vince", "Wendy", "Xavier"]
+      },
+      {
+        "name": "Photography Club",
+        "description": "Capture the beauty of the world around you and learn advanced photography techniques in the photography club.",
+        "imageUrl": "https://expertphotography.b-cdn.net/wp-content/uploads/2020/07/social-media-for-photographers-follow-1.jpg",
+        "acceptance_rate": "80%",
+        "deadline": "2023-06-10",
+        "num_members": "20",
+        "friend_members": ["Yara", "Zane", "Aria"],
+        "other_members": ["Bella", "Caden", "Dahlia"]
+      },
+      {
+        "name": "Robotics Club",
+        "description": "Design, build, and program robots to compete in exciting challenges by joining the robotics club.",
+        "imageUrl": "https://builtin.com/sites/www.builtin.com/files/styles/og/public/2022-09/robotics.png",
+        "acceptance_rate": "65%",
+        "deadline": "2023-05-25",
+        "num_members": "45",
+        "friend_members": ["Evan", "Fiona", "Gage"],
+        "other_members": ["Harper", "Ivan", "Jade"]
+      },
+      {
+        "name": "Coding Club",
+        "description": "Learn programming languages, work on interesting projects, and collaborate with peers in the coding club.",
+        "imageUrl": "https://expertphotography.b-cdn.net/wp-content/uploads/2020/07/social-media-for-photographers-follow-1.jpg",
+        "acceptance_rate": "70%",
+        "deadline": "2023-06-05",
+        "num_members": "50",
+        "friend_members": ["Kai", "Lola", "Mason"],
+        "other_members": ["Nina", "Oscar", "Piper"]
+      },
+      {
+        "name": "Eco Club",
+        "description": "Raise environmental awareness, work on sustainability projects, and make a positive impact by joining the eco club.",
+        "imageUrl": "https://images.unsplash.com/photo-1508921912186-1d1a45ebb3c1",
+        "acceptance_rate": "90%",
+        "deadline": "2023-06-20",
+        "num_members": "15",
+        "friend_members": ["Quinn", "Ryder", "Skylar"],
+        "other_members": ["Tessa", "Upton", "Vera"]
+      },
+      {
+        "name": "Language Club",
+        "description": "Learn new languages, practice with native speakers, and explore different cultures in the language club.",
+        "imageUrl": "https://cdn.mos.cms.futurecdn.net/FaWKMJQnr2PFcYCmEyfiTm.jpg",
+        "acceptance_rate": "95%",
+        "deadline": "2023-05-15",
+        "num_members": "55",
+        "friend_members": ["Wade", "Xena", "Yves"],
+        "other_members": ["Zara", "Avery", "Bryce"]
+      }      
+    ],
+    "sports": [],
+    "research": [],
+    "events": []
+  }
+  
