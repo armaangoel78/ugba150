@@ -63,7 +63,7 @@
       {
         "name": "Coding Club",
         "description": "Learn programming languages, work on interesting projects, and collaborate with peers in the coding club.",
-        "imageUrl": "https://expertphotography.b-cdn.net/wp-content/uploads/2020/07/social-media-for-photographers-follow-1.jpg",
+        "imageUrl": "https://woz-u.com/wp-content/uploads/2022/06/Evolution-of-Coding-scaled.jpg",
         "acceptance_rate": "70%",
         "deadline": "2023-06-05",
         "num_members": "50",
@@ -91,8 +91,212 @@
         "other_members": ["Zara", "Avery", "Bryce"]
       }      
     ],
-    "sports": [],
-    "research": [],
-    "events": []
+    "sports": [
+      {
+        "name": "Soccer Team",
+        "description": "Join the soccer team to develop your skills and compete in local and regional tournaments.",
+        "imageUrl": "https://daily.jstor.org/wp-content/uploads/2018/06/soccer_europe_1050x700.jpg",
+        "acceptance_rate": "65%",
+        "deadline": "2023-05-10",
+        "num_members": "22",
+        "friend_members": ["Ava", "Ben", "Cara"],
+        "other_members": ["Dylan", "Emma", "Finn"]
+      },
+      {
+        "name": "Basketball Team",
+        "description": "Become a part of the basketball team to improve your game and play in competitive tournaments.",
+        "imageUrl": "https://images.unsplash.com/photo-1519861531473-9200262188bf",
+        "acceptance_rate": "55%",
+        "deadline": "2023-05-15",
+        "num_members": "15",
+        "friend_members": ["Grace", "Henry", "Isla"],
+        "other_members": ["Jack", "Katie", "Luke"]
+      },
+      {
+        "name": "Swim Team",
+        "description": "Join the swim team to refine your technique, build endurance, and compete against other schools.",
+        "imageUrl": "https://cdn.britannica.com/83/126383-050-38B8BE25/Michael-Phelps-American-Milorad-Cavic-final-Serbia-2008.jpg",
+        "acceptance_rate": "75%",
+        "deadline": "2023-05-25",
+        "num_members": "20",
+        "friend_members": ["Mason", "Nora", "Oliver"],
+        "other_members": ["Piper", "Quinn", "Ryder"]
+      },
+      {
+        "name": "Tennis Team",
+        "description": "Join the tennis team to sharpen your skills, learn strategy, and compete in local tournaments.",
+        "imageUrl": "https://reviewed-com-res.cloudinary.com/image/fetch/s--UJ2sGByA--/b_white,c_limit,cs_srgb,f_auto,fl_progressive.strip_profile,g_center,q_auto,w_972/https://reviewed-production.s3.amazonaws.com/1597356287543/GettyImages-1171084311.jpg",
+        "acceptance_rate": "80%",
+        "deadline": "2023-06-05",
+        "num_members": "12",
+        "friend_members": ["Savannah", "Theo", "Ursula"],
+        "other_members": ["Victor", "Willow", "Xander"]
+      },
+      {
+        "name": "Volleyball Team",
+        "description": "Join the volleyball team to develop teamwork and compete against other schools in local and regional tournaments.",
+        "imageUrl": "https://tarletonsports.com/images/2023/4/24/Beach_Volleyball_Home_Page_Image.png",
+        "acceptance_rate": "70%",
+        "deadline": "2023-06-10",
+        "num_members": "18",
+        "friend_members": ["Yara", "Zane", "Aria"],
+        "other_members": ["Blake", "Cleo", "Dexter"]
+      },
+      {
+        "name": "Track and Field Team",
+        "description": "Join the track and field team to improve your speed, strength, and agility while competing in various events.",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Track_and_field_stadium.jpg",
+        "acceptance_rate": "90%",
+        "deadline": "2023-06-20",
+        "num_members": "25",
+        "friend_members": ["Ella", "Felix", "Gia"],
+        "other_members": ["Hugo", "Ivy", "Jasper"]
+      }
+    ],
+    "research": [
+      {
+        "name": "Astrophysics Research",
+        "description": "Join our astrophysics team to explore the mysteries of the universe and contribute to groundbreaking discoveries.",
+        "imageUrl": "https://developer-blogs.nvidia.com/wp-content/uploads/2021/08/space-6394641_1920.jpg",
+        "acceptance_rate": "45%",
+        "deadline": "2023-07-01",
+        "num_members": "20",
+        "friend_members": ["Samantha", "Timothy", "Ursula"],
+        "other_members": ["Victor", "Wendy", "Xander"]
+      },
+      {
+        "name": "Biomedical Engineering Research",
+        "description": "Work with our biomedical engineering team to develop innovative solutions for healthcare challenges.",
+        "imageUrl": "https://imageio.forbes.com/specials-images/imageserve/638675c7acee9a6ca6459796/Female-research-team-studying-DNA-mutations--Computer-screens-with-DNA-helix-in/960x0.jpg?height=399&width=711&fit=bounds",
+        "acceptance_rate": "50%",
+        "deadline": "2023-06-30",
+        "num_members": "18",
+        "friend_members": ["Yasmine", "Zachary", "Ava"],
+        "other_members": ["Brandon", "Cassandra", "Daniel"]
+      },
+      {
+        "name": "Environmental Science Research",
+        "description": "Join the environmental science research team to study and develop solutions for pressing environmental issues.",
+        "imageUrl": "https://newscenter.lbl.gov/wp-content/uploads/2018/07/Data-Collection-WSFA-800px.jpg",
+        "acceptance_rate": "55%",
+        "deadline": "2023-07-15",
+        "num_members": "22",
+        "friend_members": ["Emma", "Felix", "Grace"],
+        "other_members": ["Henry", "Isabella", "Jasmine"]
+      },
+      {
+        "name": "Artificial Intelligence Research",
+        "description": "Collaborate with our AI research team to advance the field of artificial intelligence and machine learning.",
+        "imageUrl": "https://www.timeshighereducation.com/sites/default/files/styles/article785xauto/public/kku-ai-center_0.jpg?itok=hos22Zd9",
+        "acceptance_rate": "40%",
+        "deadline": "2023-08-01",
+        "num_members": "24",
+        "friend_members": ["Kai", "Luna", "Mason"],
+        "other_members": ["Nina", "Oscar", "Penelope"]
+      },
+      {
+        "name": "Social Psychology Research",
+        "description": "Conduct research with our social psychology team to better understand human behavior and interpersonal relationships.",
+        "imageUrl": "https://www.verywellmind.com/thmb/tMXXDklwjShtwenchh-3Qb0LQeQ=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/women-sitting-together-in-a-circle-in-support-group-475158375-579128e65f9b58cdf3ea4fb3.jpg",
+        "acceptance_rate": "65%",
+        "deadline": "2023-07-20",
+        "num_members": "26",
+        "friend_members": ["Quentin", "Roxanne", "Sebastian"],
+        "other_members": ["Tara", "Ulysses", "Violet"]
+      },
+      {
+        "name": "Nanotechnology Research",
+        "description": "Work with the nanotechnology research group to explore applications and innovations in the nanoscale world.",
+        "imageUrl": "https://www.medicaldevice-network.com/wp-content/uploads/sites/23/2020/07/Nanotechnology-Medicine-Technology-July.jpg",
+        "acceptance_rate": "48%",
+        "deadline": "2023-07-31",
+        "num_members": "19",
+        "friend_members": ["William", "Xena", "Yolanda"],
+        "other_members": ["Zane", "Abigail", "Bradley"]
+        }
+    ],
+    "events": [
+      {
+        "name": "TEDx University",
+        "description": "Experience inspiring talks from a diverse range of speakers at our annual TEDx event.",
+        "event_date_time": "July 10, 2023, 7:00 PM",
+        "num_attending": "120",
+        "capacity": "150",
+        "friend_attendees": ["Alice", "Bob", "Carol"],
+        "other_attendees": ["David", "Eve", "Frank"]
+      },
+      {
+        "name": "Career Fair",
+        "description": "Connect with potential employers and explore job and internship opportunities at our career fair.",
+        "event_date_time": "September 15, 2023, 10:00 AM",
+        "num_attending": "250",
+        "capacity": "500",
+        "friend_attendees": ["George", "Helen", "Iris"],
+        "other_attendees": ["Jack", "Karen", "Liam"]
+      },
+      {
+        "name": "Startup Pitch Night",
+        "description": "Pitch your innovative ideas and receive feedback from industry professionals and entrepreneurs.",
+        "event_date_time": "August 20, 2023, 6:00 PM",
+        "num_attending": "75",
+        "capacity": "100",
+        "friend_attendees": ["Mia", "Noah", "Olivia"],
+        "other_attendees": ["Parker", "Quincy", "Riley"]
+      },
+      {
+        "name": "Cultural Showcase",
+        "description": "Celebrate diversity and learn about different cultures through performances, music, and food.",
+        "event_date_time": "November 5, 2023, 5:00 PM",
+        "num_attending": "200",
+        "capacity": "300",
+        "friend_attendees": ["Sophia", "Tom", "Uma"],
+        "other_attendees": ["Victor", "Wendy", "Xander"]
+      },
+      {
+        "name": "Coding Hackathon",
+        "description": "Collaborate with other students and develop innovative solutions to real-world problems during our 48-hour hackathon.",
+        "event_date_time": "October 10, 2023, 9:00 AM",
+        "num_attending": "100",
+        "capacity": "150",
+        "friend_attendees": ["Yara", "Zane", "Abby"],
+        "other_attendees": ["Bobby", "Cassie", "Dylan"]
+      },
+      {
+        "name": "Alumni Networking Night",
+        "description": "Meet and connect with successful alumni from various industries at our networking event.",
+        "event_date_time": "September 30, 2023, 7:00 PM",
+        "num_attending": "80",
+        "capacity": "120",
+        "friend_attendees": ["Ella", "Finn", "Grace"],
+        "other_attendees": ["Hank", "Ivy", "Jackie"]
+      },
+      {
+        "name": "Sustainability Symposium",
+        "description": "Learn about the latest developments in sustainability and environmental conservation from leading experts.",
+        "event_date_time": "October 25, 2023, 2:00 PM",
+        "num_attending": "90",
+        "capacity": "120",
+        "friend_attendees": ["Karl", "Lana", "Mona"],
+        "other_attendees": ["Nina", "Oscar", "Patty"]
+      },
+      {
+        "name": "Wellness Workshop",
+        "description": "Join us for a day of mindfulness and stress-relief activities, including yoga, meditation, and aromatherapy.",
+        "event_date_time": "August 12, 2023, 10:00 AM",
+        "num_attending": "45",
+        "capacity": "60",
+        "friend_attendees": ["Quentin", "Rachel", "Steve"],
+        "other_attendees": ["Tina", "Ursula", "Vance"]
+        },
+        {
+        "name": "Science and Innovation Expo",
+        "description": "Discover groundbreaking research and projects by students and faculty in the fields of science, technology, and engineering.",
+        "event_date_time": "November 17, 2023, 4:00 PM",
+        "num_attending": "175",
+        "capacity": "250",
+        "friend_attendees": ["Walter", "Xena", "Yolanda"],
+        "other_attendees": ["Zack", "Amelia", "Brandon"]
+        }
+    ]
   }
   

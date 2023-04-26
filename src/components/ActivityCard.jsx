@@ -27,13 +27,13 @@ const ActivityCard = ({ name, description, imageUrl, type, id }) => {
         transform: 'scale(0.98)', // Decrease the scale slightly on click (mousedown)
       }}
     >
-      <Image
+      {imageUrl && <Image
         src={imageUrl}
         alt={name}
         height="200px"
         width="100%"
         objectFit="cover"
-      />
+      />}
       <VStack p="6" align="start">
         <Text fontWeight="bold">{name}</Text>
         <Text>{description}</Text>
